@@ -20,6 +20,7 @@ public class Array_1way5 {
 		  //Second
 		  ArrayList<Integer> list1 =(ArrayList<Integer>) Arrays.asList(3,75,6576,78756,768576,456);
 		  System.out.println(list1.toString());
+		  System.out.println(list1.toString());
 		
 		System.out.println("");
 		
